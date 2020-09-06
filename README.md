@@ -11,7 +11,7 @@ stego3 is for changing '-' into 2 combinations of similar symbols
 ## pictures
 **contains two programs for hiding info in pictures**
 
-LSB stands for Least Significant Bit
+LSB stands for Least Significant Bit  
 
 DCT stands for Discrete Cosine Transform
 
